@@ -2,6 +2,7 @@
     color: #02ccba;
     background-color: #ccffff;
     width:700px;
+    text-align:center;
   }
 .a{
   color: red;
@@ -12,4 +13,14 @@ body{
 
 .main{
   padding-left: 40px;
+}
+
+h2{
+  background-color:#ffffcc;
+  width:660px;
+  color:#02ccba
+}
+
+span{
+  color: #02ccba;
 }
